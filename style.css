@@ -6,4 +6,9 @@
 
 #pText {
     font-size: 20px;
+.uma_class {
+    color: gold;
+    background-color: violet;
+    width: 500px;
+    height: 500px;
 }
